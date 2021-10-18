@@ -6,13 +6,11 @@
 }
 
 .name{
-
-  position: absolute;
-  left: 37%;
   font-size: 40px;
   background: -webkit-linear-gradient(#fe0944, #feae96);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  text-align: center;
 }
 
 
