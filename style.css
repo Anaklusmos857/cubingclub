@@ -15,12 +15,11 @@
 
 
 .main_box{
-    height: 100%;
-    width: 100%;
-    background-image: url('rubix.jpg');
-    background-position: center;
-    background-size: cover;
-    position: absolute;
+  position: relative;
+  background: url('rubix.jpg') right no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
 }
 
 .main_box .sidebar_menu{
