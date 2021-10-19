@@ -5,6 +5,16 @@
     box-sizing: border-box;
 }
 
+.form-box{
+  width: 380px;
+  height: 480px;
+  position: relative;
+  margin: 6% auto;
+  background: 255;
+  padding: 5px;
+}
+
+
 .name{
   font-size: 40px;
   background: -webkit-linear-gradient(#fe0944, #feae96);
