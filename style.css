@@ -119,12 +119,3 @@
 #check:checked ~ .sidebar_menu .btn_two i{
   opacity: 1;
 }
-
-.form-box{
-  width: 380px;
-  height: 480px;
-  position: relative;
-  margin: 6% auto;
-  background-color: #fff;
-  padding: 5px;
-}
