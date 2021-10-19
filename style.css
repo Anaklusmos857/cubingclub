@@ -15,7 +15,7 @@
 
 
 .main_box{
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url('rubix.jpg');
+  background: url('rubix.jpg');
   background-size: cover;
   background-position: center;
   height: 100%;
