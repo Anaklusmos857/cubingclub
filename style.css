@@ -5,15 +5,6 @@
     box-sizing: border-box;
 }
 
-.form-box{
-  width: 380px;
-  height: 480px;
-  position: relative;
-  margin: 6% auto;
-  background: #fff;
-  padding: 5px;
-}
-
 .name{
   font-size: 40px;
   background: -webkit-linear-gradient(#fe0944, #feae96);
@@ -24,10 +15,10 @@
 
 
 .main_box{
-  position: relative;
-  background: url('rubix.jpg') right no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url('rubix.jpg');
   background-size: cover;
-  height: 100vh;
+  background-position: center;
+  height: 100%;
   width: 100%;
 }
 
@@ -127,4 +118,13 @@
 
 #check:checked ~ .sidebar_menu .btn_two i{
   opacity: 1;
+}
+
+.form-box{
+  width: 380px;
+  height: 480px;
+  position: relative;
+  margin: 6% auto;
+  background: #fff;
+  padding: 5px;
 }
