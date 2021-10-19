@@ -32,15 +32,6 @@
   transition: transform 0.4s ease;
 }
 
-.form_box{
-  width: 380px;
-  height: 480px;
-  position: relative;
-  margin: 6% auto;
-  background-color: #fff;
-  padding: 5px;
-}
-
 .sidebar_menu .logo{
   position: absolute;
   width: 100%;
